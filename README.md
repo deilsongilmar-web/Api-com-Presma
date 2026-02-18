@@ -34,7 +34,6 @@ Dotenv
 
 🛠️ Instalação e Configuração
 1. Clone o repositório: Bash git clone https://github.com/deilsongilmar-web/Api-com-Presma.git
-cd atividade-22-23
 2. Instale as dependências:npm install
 3. Configure as variáveis de ambiente: Bash Snippet de código
 Crie um arquivo .env na raiz do projeto e adicione a URL do seu banco de dados:
