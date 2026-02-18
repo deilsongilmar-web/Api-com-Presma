@@ -1,4 +1,4 @@
-(<img width="1024" height="393" alt="Api com Prisma 01" src="https://github.com/user-attachments/assets/b4b55dc3-66e2-4b0d-9345-174c8c64a193">/)
+<img width="1024" height="393" alt="Api com Prisma 01" src="https://github.com/user-attachments/assets/b4b55dc3-66e2-4b0d-9345-174c8c64a193">
 
 
 # API com Prisma 
