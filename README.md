@@ -104,6 +104,28 @@ Para rodar o projeto em modo de desenvolvimento: Bash npm run dev
 🧪 Comandos Úteis do Prisma
 npx prisma studio: Abre uma interface visual para explorar seus dados.
 
+---
+
+git clone [https://github.com/deilsongilmar-web/](https://github.com/deilsongilmar-web/)
+
+
+
+## 👨‍💻 Contato
+
+Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Energia Solar
+
+
+* **Meu LinkedIn:** [www.linkedin.com/in/deilson-mendes](www.linkedin.com/in/deilson-mendes)
+
+* **GitHub:** [https://github.com/DeilsonGilmar](https://github.com/DeilsonGilmar)
+
+* **Instagram:** [@DL_MENDES_SERVICOS](@DL_MENDES_SERVICOS)
+
+* **E-mail:** [deilsongilmar@gmail.com](deilsongilmar@gmail.com)
+
+* **Telefone:** [8598561-7285](85985617285)
+
+
 npx prisma validate: Verifica se o arquivo de schema está correto.
 
 npx prisma format: Formata automaticamente o arquivo schema.prisma.
