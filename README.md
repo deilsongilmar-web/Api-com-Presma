@@ -78,8 +78,7 @@ Plaintext
 Clone o repositório:
 
 Bash
-git clone https://github.com/deilsongilmar-web/atividade-22-23.git
-cd atividade-22-23
+git clone https://github.com/deilsongilmar-web/Api-com-Presma.git
 Instale as dependências:
 
 Bash
