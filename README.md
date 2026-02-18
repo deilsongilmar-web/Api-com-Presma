@@ -1,5 +1,6 @@
 
-![unnamed](https://github.com/user-attachments/assets/66b0c94f-bcce-4727-b219-357164998301)
+![unnamed](<img width="1024" height="393" alt="Api com Prisma 01" src="https://github.com/user-attachments/assets/b4b55dc3-66e2-4b0d-9345-174c8c64a193" />)
+
 
 # API com Prisma 
 Sistema de Cadastro de Motorista - Prisma Backend
