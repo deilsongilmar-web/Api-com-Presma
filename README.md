@@ -15,21 +15,21 @@ Prisma ORM
 Dotenv
 
 📦 Estrutura do Projeto
-.
-├── prisma/
-│   ├── migrations/      # Histórico de alterações do banco de dados
-│   └── schema.prisma    # Definição dos modelos e fonte de dados
-├── src/                 # Código fonte da aplicação
-├── .env                 # Variáveis de ambiente (não versionado)
-├── prisma.config.ts     # Arquivo de configuração do Prisma
-└── package.json         # Dependências e scripts.
-├── prisma/
-│   ├── migrations/      # Histórico de alterações do banco de dados
-│   └── schema.prisma    # Definição dos modelos e fonte de dados
-├── src/                 # Código fonte da aplicação
-├── .env                 # Variáveis de ambiente (não versionado)
-├── prisma.config.ts     # Arquivo de configuração do Prisma
-└── package.json         # Dependências e scripts
+
+ prisma/
+ migrations/          # Histórico de alterações do banco de dados
+ schema.prisma        # Definição dos modelos e fonte de dados
+ src/                 # Código fonte da aplicação
+ .env                 # Variáveis de ambiente (não versionado)
+ prisma.config.ts     # Arquivo de configuração do Prisma
+ package.json         # Dependências e scripts.
+ prisma/
+ migrations/          # Histórico de alterações do banco de dados
+ schema.prisma        # Definição dos modelos e fonte de dados
+ src/                 # Código fonte da aplicação
+ .env                 # Variáveis de ambiente (não versionado)
+ prisma.config.ts     # Arquivo de configuração do Prisma
+ package.json         # Dependências e scripts
 
 
 🛠️ Instalação e Configuração
