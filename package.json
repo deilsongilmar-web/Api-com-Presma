@@ -1,0 +1,21 @@
+{
+  "name": "motoristas-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "npx nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "dependencies": {
+    "@prisma/client": "^6.19.2",
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11",
+    "pg": "^8.18.0",
+    "postgres": "^3.4.8",
+    "prisma": "^6.19.2"
+  }
+}
