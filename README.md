@@ -103,6 +103,9 @@ Para rodar o projeto em modo de desenvolvimento: Bash npm run dev
 
 🧪 Comandos Úteis do Prisma
 npx prisma studio: Abre uma interface visual para explorar seus dados.
+npx prisma validate: Verifica se o arquivo de schema está correto.
+
+npx prisma format: Formata automaticamente o arquivo schema.prisma.
 
 ---
 
@@ -126,6 +129,3 @@ Deilson Gilmar - Desenvolvedor Web & Serviços Elétricos/Energia Solar
 * **Telefone:** [8598561-7285](85985617285)
 
 
-npx prisma validate: Verifica se o arquivo de schema está correto.
-
-npx prisma format: Formata automaticamente o arquivo schema.prisma.
