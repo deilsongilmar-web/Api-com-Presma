@@ -1,3 +1,6 @@
+
+https://github.com/deilsongilmar-web/Api-com-Presma/issues/2#issue-3958094306
+
 # API com Prisma 
 Sistema de Cadastro de Motorista - Prisma Backend
 Este projeto é uma aplicação Node.js desenvolvida com TypeScript e Prisma ORM para gerenciamento de banco de dados. O objetivo principal é demonstrar a configuração de schemas, migrações e integração com variáveis de ambiente.
